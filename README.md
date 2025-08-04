@@ -6,7 +6,7 @@
 Moderne Website für Webdesign-Dienstleistungen, erstellt mit **Tailwind CSS** und gehostet auf GitHub Pages.
 
 ## 🚀 Live-Website
-➡️ [https://die300web.github.io](https://die300web.github.io) *(Bitte durch Ihren Nutzernamen ersetzen)*
+➡️ [https://FeroBoost.github.io](https://FeroBoost.github.io) 
 
 ## ✨ Hauptmerkmale
 - ✅ Responsive Design (mobile & desktop)
