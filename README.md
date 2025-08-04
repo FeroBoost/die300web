@@ -1,142 +1,49 @@
-<!DOCTYPE html>
-<html lang="de">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="description" content="Entdecken Sie die perfekte Webseite mit die300web: Günstige Webseiten & Webshops ab 65€. Professionelles Design und schnelle Umsetzung.">
-  <meta name="keywords" content="Webseiten, Webshops, Design, Preise, die300web">
-  <title>Die300Web - Perfekte Webseiten & Webshops ab 65€</title>
-  <script src="https://cdn.tailwindcss.com"></script>
-</head>
-<body class="bg-gray-50 font-sans text-gray-800">
-  <!-- Header -->
-  <header class="bg-white shadow-md">
-    <div class="container mx-auto px-4 py-4 flex justify-between items-center">
-      <h1 class="text-2xl font-bold text-blue-600">Die300Web</h1>
-      <nav>
-        <a href="#preise" class="text-blue-600 hover:text-blue-800 mx-4">Preise</a>
-        <a href="#kontakt" class="text-blue-600 hover:text-blue-800 mx-4">Kontakt</a>
-      </nav>
-    </div>
-  </header>
+# 🌐 Die300Web - Professionelle Webseiten & Webshops ab 65€
 
-  <!-- Hero Section -->
-  <section class="bg-blue-600 text-white py-20 text-center">
-    <div class="container mx-auto px-4">
-      <h2 class="text-4xl font-bold mb-4">Ihre perfekte Webseite oder Webshop</h2>
-      <p class="text-lg mb-6">Maßgeschneiderte Lösungen ab 65€ – schnell, professionell und individuell.</p>
-      <a href="#kontakt" class="bg-white text-blue-600 font-semibold py-3 px-6 rounded-lg hover:bg-gray-100">Jetzt starten</a>
-    </div>
-  </section>
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=for-the-badge&logo=github-pages&logoColor=white)
 
-  <!-- Preise Section -->
-  <section id="preise" class="py-16 bg-gray-100">
-    <div class="container mx-auto px-4">
-      <h2 class="text-3xl font-semibold text-center mb-10">Unsere Tarife</h2>
-      <div class="grid grid-cols-1 md:grid-cols-3 gap-8">
-        <!-- Tarif 1 -->
-        <div class="bg-white p-6 rounded-lg shadow-lg text-center hover:shadow-xl transition">
-          <h3 class="text-xl font-bold text-blue-600 mb-2">Starter</h3>
-          <p class="text-3xl font-bold text-gray-800 mb-4">65€</p>
-          <ul class="text-gray-600 mb-6 space-y-2">
-            <li>1 Landingpage</li>
-            <li>Responsive Design</li>
-            <li>Grund-SEO</li>
-            <li>Ohne Vertrag</li>
-          </ul>
-          <a href="#kontakt" class="bg-blue-600 text-white py-2 px-4 rounded hover:bg-blue-700">Auswählen</a>
-        </div>
-        <!-- Tarif 2 -->
-        <div class="bg-white p-6 rounded-lg shadow-lg text-center hover:shadow-xl transition">
-          <h3 class="text-xl font-bold text-blue-600 mb-2">Professional</h3>
-          <p class="text-3xl font-bold text-gray-800 mb-4">333€</p>
-          <ul class="text-gray-600 mb-6 space-y-2">
-            <li>Komplette Webseite</li>
-            <li>5 Seiten</li>
-            <li>SEO-Optimierung</li>
-            <li>Support 30 Tage</li>
-          </ul>
-          <a href="#kontakt" class="bg-blue-600 text-white py-2 px-4 rounded hover:bg-blue-700">Auswählen</a>
-        </div>
-        <!-- Tarif 3 -->
-        <div class="bg-white p-6 rounded-lg shadow-lg text-center hover:shadow-xl transition">
-          <h3 class="text-xl font-bold text-blue-600 mb-2">Webshop</h3>
-          <p class="text-3xl font-bold text-gray-800 mb-4">175€</p>
-          <ul class="text-gray-600 mb-6 space-y-2">
-            <li>Online-Shop</li>
-            <li>Produktseiten</li>
-            <li>Zahlungsintegration</li>
-            <li>Ohne Vertrag</li>
-          </ul>
-          <a href="#kontakt" class="bg-blue-600 text-white py-2 px-4 rounded hover:bg-blue-700">Auswählen</a>
-        </div>
-      </div>
-    </div>
-  </section>
+Moderne Website für Webdesign-Dienstleistungen, erstellt mit **Tailwind CSS** und gehostet auf GitHub Pages.
 
-  <!-- Testimonials -->
-  <section class="py-16 bg-white">
-    <div class="container mx-auto px-4 text-center">
-      <h2 class="text-3xl font-semibold mb-6">Was unsere Kunden sagen</h2>
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-        <div class="bg-gray-50 p-6 rounded-lg shadow">
-          <p class="text-gray-600 italic">"Schnell und professionell – meine Webseite ist ein Volltreffer!"</p>
-          <p class="mt-2 font-bold text-blue-600">– Anna S.</p>
-        </div>
-        <div class="bg-gray-50 p-6 rounded-lg shadow">
-          <p class="text-gray-600 italic">"Der Webshop läuft perfekt, super Service!"</p>
-          <p class="mt-2 font-bold text-blue-600">– Markus K.</p>
-        </div>
-      </div>
-    </div>
-  </section>
+## 🚀 Live-Website
+➡️ [https://die300web.github.io](https://die300web.github.io) *(Bitte durch Ihren Nutzernamen ersetzen)*
 
-  <!-- Kontakt Section -->
-  <section id="kontakt" class="bg-blue-600 text-white py-16">
-    <div class="container mx-auto px-4 text-center">
-      <h2 class="text-3xl font-semibold mb-6">Kontaktieren Sie uns</h2>
-      <p class="mb-6">Lassen Sie uns Ihre Vision wahr werden!</p>
-      <form id="contactForm" class="max-w-md mx-auto space-y-4" action="https://formspree.io/f/xrblajge" method="POST">
-        <input type="text" name="name" placeholder="Ihr Name" class="w-full p-3 rounded-lg bg-white text-gray-800" required>
-        <input type="email" name="email" placeholder="Ihre E-Mail" class="w-full p-3 rounded-lg bg-white text-gray-800" required>
-        <textarea name="message" placeholder="Ihre Nachricht" class="w-full p-3 rounded-lg bg-white text-gray-800 h-24" required></textarea>
-        <button type="submit" class="bg-white text-blue-600 font-semibold py-3 px-6 rounded-lg hover:bg-gray-100">Senden</button>
-      </form>
-      <p class="mt-6">Oder rufen Sie uns an: <a href="tel:+4368120699706" class="underline hover:text-gray-200">0681 20 699 706</a></p>
-      <a href="https://wa.me/4368120699706" class="mt-4 inline-block bg-green-500 text-white py-2 px-4 rounded-lg hover:bg-green-600">Via WhatsApp</a>
-    </div>
-  </section>
+## ✨ Hauptmerkmale
+- ✅ Responsive Design (mobile & desktop)
+- ✅ Kontaktformular mit Formspree
+- ✅ Drei klare Preispakete
+- ✅ Kundenstimmen zur Vertrauensbildung
+- ✅ WhatsApp- und Telefon-Kontakt
 
-  <!-- Footer -->
-  <footer class="bg-gray-800 text-white py-6">
-    <div class="container mx-auto px-4 text-center">
-      <p>&copy; 2025 Die300Web. Alle Rechte vorbehalten.</p>
-    </div>
-  </footer>
+## 🛠 Technologien
+- **HTML5** - Semantische Struktur
+- **Tailwind CSS** - Modernes Styling
+- **Formspree** - Formular-Handling
+- **GitHub Pages** - Kostenloses Hosting
 
-  <script>
-    document.getElementById('contactForm').addEventListener('submit', function(e) {
-      e.preventDefault();
-      fetch(this.action, {
-        method: this.method,
-        body: new FormData(this),
-        headers: {
-          'Accept': 'application/json'
-        }
-      })
-      .then(response => {
-        if (response.ok) {
-          alert('Vielen Dank! Ihre Nachricht wurde gesendet.');
-          this.reset();
-        } else {
-          throw new Error('Netzwerkantwort war nicht ok');
-        }
-      })
-      .catch(error => {
-        alert('Es gab ein Problem beim Senden. Bitte versuchen Sie es später erneut.');
-        console.error('Error:', error);
-      });
-    });
-  </script>
-</body>
-</html>
+## 📸 Vorschau
+![Vorschau der Website](https://via.placeholder.com/800x500/38B2AC/FFFFFF?text=Die300Web-Screenshot) *(Ersetzen Sie dies mit einem echten Screenshot)*
+
+## 📦 Projektstruktur/
+├── index.html # Hauptseite
+├── README.md # Diese Datei
+└── assets/ # (Optional)
+├── images/ # Bilder
+└── scripts/ # Zusätzliche JS-Dateien
+
+## 📝 Anpassungen
+1. Bearbeiten Sie `index.html` direkt im GitHub-Editor
+2. Ändern Sie:
+   - Kontaktdaten (Zeile 150 & 151)
+   - Preise (Abschnitte "Starter"/"Professional"/"Webshop")
+   - Testimonials
+
+## 📞 Kontakt
+✉️ [support@die300web.com](mailto:support@die300web.com)  
+📞 [+43 681 20699706](tel:+4368120699706)  
+💬 [WhatsApp-Chat](https://wa.me/4368120699706)
+
+---
+
+🔹 **Letztes Update:** `August 2025`  
+🔹 **Lizenz:** [MIT](https://choosealicense.com/licenses/mit/)
