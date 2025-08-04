@@ -22,7 +22,7 @@ Moderne Website für Webdesign-Dienstleistungen, erstellt mit **Tailwind CSS** u
 - **GitHub Pages** - Kostenloses Hosting
 
 ## 📸 Vorschau
-![Vorschau der Website](https://via.placeholder.com/800x500/38B2AC/FFFFFF?text=Die300Web-Screenshot) *(Ersetzen Sie dies mit einem echten Screenshot)*
+![Vorschau der Website](https://via.placeholder.com/800x500/38B2AC/FFFFFF?text=Die300Web-Screenshot) 
 
 ## 📦 Projektstruktur/
 ├── index.html # Hauptseite
@@ -31,12 +31,6 @@ Moderne Website für Webdesign-Dienstleistungen, erstellt mit **Tailwind CSS** u
 ├── images/ # Bilder
 └── scripts/ # Zusätzliche JS-Dateien
 
-## 📝 Anpassungen
-1. Bearbeiten Sie `index.html` direkt im GitHub-Editor
-2. Ändern Sie:
-   - Kontaktdaten (Zeile 150 & 151)
-   - Preise (Abschnitte "Starter"/"Professional"/"Webshop")
-   - Testimonials
 
 ## 📞 Kontakt
 ✉️ [support@die300web.com](mailto:support@die300web.com)  
